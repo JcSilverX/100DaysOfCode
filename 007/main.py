@@ -1,5 +1,5 @@
 """
-    Day 05 - Project: Hangman
+    Day 07 - Project: Hangman
 
     coded by JcSilverX
 """

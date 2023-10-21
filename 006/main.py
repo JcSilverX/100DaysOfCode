@@ -1,5 +1,5 @@
 """
-    Day 05 - Project: Escaping the Maze.
+    Day 06 - Project: Escaping the Maze.
 
     coded by JcSilverX
 """
