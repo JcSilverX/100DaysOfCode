@@ -3,6 +3,7 @@
 
     Coded by JcSilverX
 """
+from caesar_chipher_art import LOGO
 
 ALPHABETS = [ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
@@ -50,6 +51,7 @@ def err_exit(error):
 if __name__ == '__main__':
 	flag = False
 
+	print(f'{LOGO}')
 	while not flag:
 		direction = input('Type `encode` to encrypt, type `decode` to decrypt: ')
 		text = input('Type your message: ').lower()
