@@ -1,4 +1,5 @@
 # 100DaysOfCode
+*=)*
 
 ## *List of Projects:*
 * *Day 01 - Project: [Band Name Generator](001/main.py)*
