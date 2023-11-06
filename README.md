@@ -10,5 +10,5 @@
 * *Day 06 - Project: [Escaping the Maze](006/main.py)* 
 * *Day 07 - Project: [Hangman](007/main.py)*
 * *Day 08 - Project: [Caesar Cipher - Encrption & Decription](008/main.py)*
-* *Day 08 - Project: [Secret Auction Program](009/main.py)*
-* *Day 08 - Project: [Calculator](010/main.py)*
+* *Day 09 - Project: [Secret Auction Program](009/main.py)*
+* *Day 10 - Project: [Calculator](010/main.py)*
